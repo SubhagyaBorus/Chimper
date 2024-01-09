@@ -38821,7 +38821,7 @@ r=g===B.Q?A.bm(a,B.ab,r).w.a.a/2.2:A.bm(a,B.ab,r).w.a.a/2.4}r=A.av(i,A.SQ(A.cV(1
 q=A.bt(i,40,i)
 if(f)p=550
 else p=g===B.Q?350:420
-p=A.av(B.T,A.bZ("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, itaque neque, delectus odio iure explicabo.",i,A.aT(i,i,A.S(153,0,0,0),i,i,i,i,i,i,i,i,15,i,i,i,i,i,!0,i,1.5,i,i,i,i,i,i),B.dh),i,i,i,i,i,p)
+p=A.av(B.T,A.bZ("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, itaque neque, delectus odio iure explicabo.",i,A.aT(i,i,A.S(153,0,0,0),i,i,i,i,i,i,i,i,15,i,i,i,i,i,!0,i,1,i,i,i,i,i,i),B.dh),i,i,i,i,i,p)
 o=A.bt(i,50,i)
 n=g===B.aA
 m=n?0:20
@@ -38984,7 +38984,7 @@ r=A.bt(k,20,k)
 q=i===B.aA
 if(q)i=15
 else i=i===B.Q?15:18
-i=A.av(B.T,A.bZ("\u201cLorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.\u201d",k,A.aT(k,k,A.S(153,0,0,0),k,k,k,k,k,k,k,k,i,k,k,k,k,k,!0,k,1.8,k,k,k,k,k,k),B.dh),k,k,k,k,k,650)
+i=A.av(B.T,A.bZ("\u201cLorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.\u201d",k,A.aT(k,k,A.S(153,0,0,0),k,k,k,k,k,k,k,k,i,k,k,k,k,k,!0,k,1,k,k,k,k,k,k),B.dh),k,k,k,k,k,650)
 p=A.bt(k,40,k)
 o=this.a
 n=A.hS(o.c,B.iM,40)
